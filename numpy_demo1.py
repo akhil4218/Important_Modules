@@ -14,7 +14,7 @@ import numpy as np
 #  a+b will print each elemnt addition with its respective
 #similarly -,*,/ does
 # np.sqrt(array) will print each  sqrt element
-#  np.std(array(  for standard deviation
+#  np.std(array)  for standard deviation
 #print(np.exp(a))  #exponential values
 #print(np.log10(a)) #  prints log to  base (10)  u can change this num    
 #np.size(element) will print total array size
