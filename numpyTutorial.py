@@ -122,7 +122,7 @@ a=np.array([[1,2,33],[3,55,4]])
 #print(linalg.pinv(a))   #  print   ssomething
 #print(linalg.inv(a))
 data=np.random.randn(2,2000)
-np.save("save.java",data)    
+np.save("save.java",data)     ## save an array into binary file
 
 da=np.load("save.npy")
 #print(da)
